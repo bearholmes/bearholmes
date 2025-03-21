@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bearholmes
-- 👀 I’m a Front Developer
+- 👀 I’m a Frontend Developer
 - 📫 I live in Seoul.
 
 
